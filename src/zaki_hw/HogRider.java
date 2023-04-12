@@ -20,9 +20,9 @@ public class HogRider {
 	public void getName() {
 	
 		  System.out.println(" Abdessalam editing ");
-		
 	}
 	
-	
-	
-}
+	public static void BMWAutoOrBike() {
+			System.out.println("BMW for the driver enthusiast");
+		}
+	}
