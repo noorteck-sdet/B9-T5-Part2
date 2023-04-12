@@ -17,7 +17,11 @@ public class HogRider {
 	}
 	
 	
+	public void getName() {
 	
+		  System.out.println(" Abdessalam editing ");
+		
+	}
 	
 	
 	
