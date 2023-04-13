@@ -26,3 +26,5 @@ public class HogRider {
 			System.out.println("BMW for the driver enthusiast");
 		}
 	}
+
+// commenting is good  pratice 
