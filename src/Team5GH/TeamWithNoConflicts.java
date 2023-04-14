@@ -7,4 +7,10 @@ public class TeamWithNoConflicts {
 		System.out.println("Clone, pull ,create, stash and then we push");
 	}
 
+	
+	public int getSum(int a, int b) {
+		
+	 return a + b;
+		
+	}
 }
