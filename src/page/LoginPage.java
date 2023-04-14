@@ -18,7 +18,7 @@ public class LoginPage {
 	    	
 	    	System.out.println("I almost miss Arrays");
 	    }
-	    
+	     System.out.println(" arrays are hard to understand ");
 	   
 	}
 	
