@@ -4,6 +4,7 @@ public class EncapsulationDemo {
 	
 	private String name;
 	private int age;
+	private String department;
 
 	public void setName(String name) {
 		this.name = name;
@@ -19,5 +20,13 @@ public class EncapsulationDemo {
 
 	public int getAge() {
 		return age;
+	}
+	
+	public void setDepartment (String department) {
+		this.department = department;
+	}
+	
+	public String getDepartment() {
+		return department;
 	}
 }
